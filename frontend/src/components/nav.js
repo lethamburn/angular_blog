@@ -25,7 +25,7 @@ const Nav = () => (
             <div className="uk-navbar-left">
               <ul className="uk-navbar-nav">
                 <li>
-                  <Link to="/">{data.strapiGlobal.siteName}</Link>
+                  <Link to="/"><img src="https://static.wikia.nocookie.net/marvelcomicsfanon/images/2/25/Daily_Bugle.png" width="250px"/></Link>
                 </li>
               </ul>
             </div>
